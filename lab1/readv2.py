@@ -19,7 +19,9 @@ def evaluar_probabilidad(texto):
         "y", "o", "pero", "si", "no", "ni",
         "en", "de", "a", "con", "por", "para", "sin", "sobre", "hasta",
         "que", "como", "cuando", "donde", "quien", "del", "al",
-        "es", "son", "fue", "ser", "estar", "este", "esta", "eso",
+        "es", "son", "fue", "ser", "estar", "este", "esta", "eso", "hola",
+        "mundo", "prueba", "exfiltracion", "oculta", "mensaje", "texto",
+        "se", "le", "lo", "la", "les", "nos", "os", "me", "te",
         # Términos de informática y redes
         "red", "redes", "seguridad", "criptografia", "sistema", "sistemas",
         "datos", "informacion", "mensaje", "texto", "cifrado", "descifrado",
